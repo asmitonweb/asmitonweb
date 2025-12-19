@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://buyhomade.com"><img src="https://img.shields.io/badge/Portfolio-buyhomade.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://buyhomemade.com"><img src="https://img.shields.io/badge/Website-buyhomemade.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/asmitanandsingh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:asmitanandsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -48,12 +48,13 @@ class AsmitAnandSingh:
 ## 💼 What I'm Working On
 
 🔨 **Currently Building:**
-- 🛒 [**BuyHomade**](https://buyhomade.com) - WhatsApp-integrated e-commerce platform using ERPNext + Next.js
+- 🛒 [**BuyHomemade**](https://buyhomemade.com) - WhatsApp-integrated e-commerce platform (Live in Production)
 - 🔐 **Magic Link Auth** - Production-ready passwordless authentication for ERPNext
 - 📊 **Waplytics** - Open-source WhatsApp analytics engine for Frappe ecosystem
 
 💡 **Recent Achievements:**
-- ✅ Deployed production app handling **1000+ concurrent users**
+- ✅ Built and deployed [**BuyHomemade.com**](https://buyhomemade.com) - Live e-commerce platform
+- ✅ Handling **1000+ concurrent users** with optimized performance
 - ✅ Achieved **60% reduction** in API response times through Redis caching
 - ✅ Built secure **JWT authentication** system with OAuth2 standards
 - ✅ Integrated **WhatsApp Business API** with enterprise ERP workflows
@@ -123,8 +124,8 @@ class AsmitAnandSingh:
 
 ---
 
-### 🛒 [BuyHomade E-Commerce Platform](https://buyhomade.com)
-**WhatsApp-integrated e-commerce with ERPNext backend**
+### 🛒 [BuyHomemade E-Commerce Platform](https://buyhomemade.com)
+**Live WhatsApp-integrated e-commerce platform**
 - 💬 Real-time WhatsApp customer support and ordering
 - 💳 Payment gateway integration (Razorpay, Stripe)
 - 📦 Automated inventory sync and order fulfillment
@@ -159,8 +160,8 @@ class AsmitAnandSingh:
   <a href="mailto:asmitanandsingh@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://buyhomade.com">
-    <img src="https://img.shields.io/badge/View_Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://buyhomemade.com">
+    <img src="https://img.shields.io/badge/View_Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
