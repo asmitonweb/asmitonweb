@@ -110,7 +110,7 @@ class AsmitAnandSingh:
 ### 🛒 [BuyHomemade E-Commerce Platform](https://buyhomemade.com)
 **Live WhatsApp-integrated e-commerce platform**
 - 💬 Real-time WhatsApp customer support and ordering
-- 💳 Payment gateway integration (Razorpay, Stripe)
+- 💳 Payment gateway integration (Razorpay)
 - 📦 Automated inventory sync and order fulfillment
 - 🚀 Docker deployment with CI/CD pipelines
 - 📈 Supports 1000+ concurrent users
