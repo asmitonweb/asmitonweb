@@ -83,23 +83,6 @@ class AsmitAnandSingh:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmitonweb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitonweb&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmitonweb&theme=tokyonight" alt="asmitonweb" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmitonweb&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Featured Projects
 
 ### 🔐 [ERPNext Magic Link Authentication](https://github.com/asmitonweb/asmit_erpnext_magiclink)
